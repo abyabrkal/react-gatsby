@@ -5,9 +5,8 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Hello World!</h1>
-        <p>Yes, React again with Gatsby</p>
-        <p>Now go build something great.</p>
+        <h1>Hello to the <br/>world of React apps</h1>
+        <p>Yes, React again <br />with Gatsby and Netify <br/>and lets go build something great.</p>
         <Link to="/video">Watch the video</Link>
       </div>
     </div>
